@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
-  <img src="./assets/banner-light.png" alt="夏季 / Rouarn — VaKao" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/banner-light.png">
+  <img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/banner-light.png" alt="夏季 / Rouarn — VaKao" width="100%">
 </picture>
 
 <a href="https://git.io/typing-svg">
@@ -41,17 +41,17 @@ VaKao 团队的开发者。做 Web 平台、桌面工具、移动应用与开源
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/stats-dark.svg">
-  <img src="./assets/generated/stats.svg" alt="GitHub stats" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/generated/stats-dark.svg">
+  <img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/generated/stats.svg" alt="GitHub stats" width="49%">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/languages-dark.svg">
-  <img src="./assets/generated/languages.svg" alt="Top languages" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/generated/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/generated/languages.svg" alt="Top languages" width="49%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/streak-dark.svg">
-  <img src="./assets/generated/streak.svg" alt="Contribution streak" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/generated/streak-dark.svg">
+  <img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/generated/streak.svg" alt="Contribution streak" width="100%">
 </picture>
 
 </div>
@@ -63,26 +63,26 @@ VaKao 团队的开发者。做 Web 平台、桌面工具、移动应用与开源
 <table>
 <tr>
 <td width="50%">
-<a href="https://github.com/Rouarn/Vakao-Studio"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/Vakao-Studio-dark.svg"><img src="./assets/projects/Vakao-Studio.svg" alt="Vakao-Studio"></picture></a>
+<a href="https://github.com/Rouarn/Vakao-Studio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/Vakao-Studio-dark.svg"><img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/Vakao-Studio.svg" alt="Vakao-Studio"></picture></a>
 </td>
 <td width="50%">
-<a href="https://github.com/Rouarn/WireDeck"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/WireDeck-dark.svg"><img src="./assets/projects/WireDeck.svg" alt="WireDeck"></picture></a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/Rouarn/DianMo"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/DianMo-dark.svg"><img src="./assets/projects/DianMo.svg" alt="DianMo"></picture></a>
-</td>
-<td width="50%">
-<a href="https://github.com/Rouarn/OnmyojiTools"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/OnmyojiTools-dark.svg"><img src="./assets/projects/OnmyojiTools.svg" alt="OnmyojiTools"></picture></a>
+<a href="https://github.com/Rouarn/WireDeck"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/WireDeck-dark.svg"><img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/WireDeck.svg" alt="WireDeck"></picture></a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<a href="https://github.com/Rouarn/VakaoUI"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/VakaoUI-dark.svg"><img src="./assets/projects/VakaoUI.svg" alt="VakaoUI"></picture></a>
+<a href="https://github.com/Rouarn/DianMo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/DianMo-dark.svg"><img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/DianMo.svg" alt="DianMo"></picture></a>
 </td>
 <td width="50%">
-<a href="https://github.com/Rouarn/VakaoStaticHub"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/VakaoStaticHub-dark.svg"><img src="./assets/projects/VakaoStaticHub.svg" alt="VakaoStaticHub"></picture></a>
+<a href="https://github.com/Rouarn/OnmyojiTools"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/OnmyojiTools-dark.svg"><img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/OnmyojiTools.svg" alt="OnmyojiTools"></picture></a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/Rouarn/VakaoUI"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/VakaoUI-dark.svg"><img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/VakaoUI.svg" alt="VakaoUI"></picture></a>
+</td>
+<td width="50%">
+<a href="https://github.com/Rouarn/VakaoStaticHub"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/VakaoStaticHub-dark.svg"><img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/VakaoStaticHub.svg" alt="VakaoStaticHub"></picture></a>
 </td>
 </tr>
 </table>
@@ -96,8 +96,8 @@ VaKao 团队的开发者。做 Web 平台、桌面工具、移动应用与开源
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/activity-dark.svg">
-  <img src="./assets/generated/activity.svg" alt="Contribution activity" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/generated/activity-dark.svg">
+  <img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/generated/activity.svg" alt="Contribution activity" width="100%">
 </picture>
 
 <picture>
