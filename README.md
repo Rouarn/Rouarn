@@ -41,24 +41,18 @@ VaKao 团队的开发者。做 Web 平台、桌面工具、移动应用与开源
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rouarn&show_icons=true&include_all_commits=true&hide_border=true&bg_color=121210&title_color=F2EFE7&text_color=A8A399&icon_color=74C7E0">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Rouarn&show_icons=true&include_all_commits=true&hide_border=true&bg_color=F3F1EC&title_color=171512&text_color=5E5A52&icon_color=46A6C6">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rouarn&show_icons=true&include_all_commits=true&hide_border=true&bg_color=F3F1EC&title_color=171512&text_color=5E5A52&icon_color=46A6C6" alt="GitHub stats" height="170">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/stats-dark.svg">
+  <img src="./assets/generated/stats.svg" alt="GitHub stats" width="49%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/languages-dark.svg">
+  <img src="./assets/generated/languages.svg" alt="Top languages" width="49%">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rouarn&layout=compact&langs_count=8&hide_border=true&bg_color=121210&title_color=F2EFE7&text_color=A8A399">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rouarn&layout=compact&langs_count=8&hide_border=true&bg_color=F3F1EC&title_color=171512&text_color=5E5A52">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rouarn&layout=compact&langs_count=8&hide_border=true&bg_color=F3F1EC&title_color=171512&text_color=5E5A52" alt="Top languages" height="170">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/streak-dark.svg">
+  <img src="./assets/generated/streak.svg" alt="Contribution streak" width="100%">
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Rouarn&hide_border=true&background=121210&ring=74C7E0&fire=F0995F&currStreakLabel=F2EFE7&sideLabels=A8A399&dates=6F6A61&currStreakNum=F2EFE7&sideNums=F2EFE7">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Rouarn&hide_border=true&background=F3F1EC&ring=46A6C6&fire=F0995F&currStreakLabel=171512&sideLabels=5E5A52&dates=8C877D&currStreakNum=171512&sideNums=171512">
-  <img src="https://streak-stats.demolab.com?user=Rouarn&hide_border=true&background=F3F1EC&ring=46A6C6&fire=F0995F&currStreakLabel=171512&sideLabels=5E5A52&dates=8C877D&currStreakNum=171512&sideNums=171512" alt="GitHub streak" height="170">
-</picture>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rouarn&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies">
 
 </div>
 
@@ -69,26 +63,26 @@ VaKao 团队的开发者。做 Web 平台、桌面工具、移动应用与开源
 <table>
 <tr>
 <td width="50%">
-<a href="https://github.com/Rouarn/Vakao-Studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rouarn&repo=Vakao-Studio&hide_border=true&bg_color=F3F1EC&title_color=171512&text_color=5E5A52&icon_color=46A6C6" alt="Vakao-Studio"></a>
+<a href="https://github.com/Rouarn/Vakao-Studio"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/Vakao-Studio-dark.svg"><img src="./assets/projects/Vakao-Studio.svg" alt="Vakao-Studio"></picture></a>
 </td>
 <td width="50%">
-<a href="https://github.com/Rouarn/WireDeck"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rouarn&repo=WireDeck&hide_border=true&bg_color=F3F1EC&title_color=171512&text_color=5E5A52&icon_color=46A6C6" alt="WireDeck"></a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/Rouarn/DianMo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rouarn&repo=DianMo&hide_border=true&bg_color=F3F1EC&title_color=171512&text_color=5E5A52&icon_color=46A6C6" alt="DianMo"></a>
-</td>
-<td width="50%">
-<a href="https://github.com/Rouarn/OnmyojiTools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rouarn&repo=OnmyojiTools&hide_border=true&bg_color=F3F1EC&title_color=171512&text_color=5E5A52&icon_color=46A6C6" alt="OnmyojiTools"></a>
+<a href="https://github.com/Rouarn/WireDeck"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/WireDeck-dark.svg"><img src="./assets/projects/WireDeck.svg" alt="WireDeck"></picture></a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<a href="https://github.com/Rouarn/VakaoUI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rouarn&repo=VakaoUI&hide_border=true&bg_color=F3F1EC&title_color=171512&text_color=5E5A52&icon_color=46A6C6" alt="VakaoUI"></a>
+<a href="https://github.com/Rouarn/DianMo"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/DianMo-dark.svg"><img src="./assets/projects/DianMo.svg" alt="DianMo"></picture></a>
 </td>
 <td width="50%">
-<a href="https://github.com/Rouarn/VakaoStaticHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rouarn&repo=VakaoStaticHub&hide_border=true&bg_color=F3F1EC&title_color=171512&text_color=5E5A52&icon_color=46A6C6" alt="VakaoStaticHub"></a>
+<a href="https://github.com/Rouarn/OnmyojiTools"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/OnmyojiTools-dark.svg"><img src="./assets/projects/OnmyojiTools.svg" alt="OnmyojiTools"></picture></a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/Rouarn/VakaoUI"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/VakaoUI-dark.svg"><img src="./assets/projects/VakaoUI.svg" alt="VakaoUI"></picture></a>
+</td>
+<td width="50%">
+<a href="https://github.com/Rouarn/VakaoStaticHub"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/projects/VakaoStaticHub-dark.svg"><img src="./assets/projects/VakaoStaticHub.svg" alt="VakaoStaticHub"></picture></a>
 </td>
 </tr>
 </table>
@@ -102,9 +96,8 @@ VaKao 团队的开发者。做 Web 平台、桌面工具、移动应用与开源
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rouarn&bg_color=121210&color=F2EFE7&line=74C7E0&point=F0995F&area=true&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rouarn&bg_color=F3F1EC&color=171512&line=46A6C6&point=F0995F&area=true&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rouarn&bg_color=F3F1EC&color=171512&line=46A6C6&point=F0995F&area=true&hide_border=true" alt="Contribution activity" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/activity-dark.svg">
+  <img src="./assets/generated/activity.svg" alt="Contribution activity" width="100%">
 </picture>
 
 <picture>
@@ -132,5 +125,5 @@ VaKao 团队的开发者。做 Web 平台、桌面工具、移动应用与开源
 </p>
 
 <div align="center">
-  <sub>VaKao · 把想法做成每天都在用的工具。</sub>
+  <sub>统计卡与项目卡由仓库内 GitHub Actions 生成，不依赖第三方图片服务。 · VaKao / 把想法做成每天都在用的工具。</sub>
 </div>
