@@ -99,20 +99,20 @@ def activity_card(days, dark=False):
     w, h = 1000, 280
     c, s = card(w, h, dark)
     s += f'<text x="30" y="34" class="mono" font-size="11" fill="{c["faint"]}">VAKAO / ACTIVITY · LAST 52 WEEKS</text>'
-    # days: date -> count
+    # days: ISO date string -> count
     today = date.today()
     start = today - timedelta(days=363)
     weeks = []
     for i in range(52):
         ws = start + timedelta(days=i*7)
-        weeks.append(sum(days.get(ws+timedelta(days=j), 0) for j in range(7)))
+        weeks.append(sum(days.get((ws + timedelta(days=j)).isoformat(), 0) for j in range(7)))
     mx = max(weeks) or 1
     x0, y0, bw, bh = 30, 78, 940, 150
     s += f'<line x1="{x0}" y1="{y0+bh}" x2="{x0+bw}" y2="{y0+bh}" stroke="{c["line"]}"/>'
     for i, v in enumerate(weeks):
         bh2 = max(2, v/mx*bh)
         s += f'<rect x="{x0+i*(bw/52):.1f}" y="{y0+bh-bh2:.1f}" width="{max(3,bw/52-4):.1f}" height="{bh2:.1f}" rx="2" fill="{COLORS[0] if v else c["line"]}" opacity="{0.85 if v else 0.5}"/>'
-    s += f'<text x="30" y="258" class="mono" font-size="10" fill="{c["faint"]}">52 WEEKS · PEAK {mx}</text>'
+    s += f'<text x="{w-30}" y="34" text-anchor="end" class="mono" font-size="11" fill="{c["faint"]}">52 WEEKS · PEAK {mx}</text>'
     s += footer(c, w, h, "ACTIVITY") + '</svg>'
     return s
 
@@ -160,6 +160,8 @@ def main():
                 days[d["date"]] = d["contributionCount"]
     except Exception as e:
         print("contribution query failed:", e)
+    if not days:
+        raise SystemExit("contribution data is empty; refusing to write blank activity cards")
     # streak
     ordered = sorted(days)
     longest = cur = 0
