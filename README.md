@@ -24,7 +24,7 @@ VaKao 团队的开发者。做 Web 平台、桌面工具、移动应用与开源
 
 - 官网：[woyuxiaji.cn](https://woyuxiaji.cn)
 - 开源项目：[woyuxiaji.cn/open-source](https://woyuxiaji.cn/open-source)
-- VaKao 官网源码：[Vakao-Studio](https://github.com/Rouarn/Vakao-Studio)
+- VaKao 官网源码：[vakao-studio](https://github.com/Rouarn/vakao-studio)
 
 ---
 
@@ -32,9 +32,9 @@ VaKao 团队的开发者。做 Web 平台、桌面工具、移动应用与开源
 
 | 项目 | 一句话 |
 |---|---|
-| **[Vakao-Studio](https://github.com/Rouarn/Vakao-Studio)** | VaKao 团队官网：Nuxt 4 + Tailwind CSS + Three.js，静态生成。 |
-| **[WireDeck](https://github.com/Rouarn/WireDeck)** | 在电脑上无线管理安卓手机：扫码配对、应用管理、APK 安装、文件传输、实时日志与 Shell。 |
-| **[DianMo](https://github.com/Rouarn/DianMo)** | 点墨：Android 单机离线场景的内存扫描与修改工具。Kotlin 悬浮窗 + C++ native 扫描器。 |
+| **[vakao-studio](https://github.com/Rouarn/vakao-studio)** | VaKao 团队官网：Nuxt 4 + Tailwind CSS + Three.js，静态生成。 |
+| **[wiredeck](https://github.com/Rouarn/wiredeck)** | 在电脑上无线管理安卓手机：扫码配对、应用管理、APK 安装、文件传输、实时日志与 Shell。 |
+| **[dianmo](https://github.com/Rouarn/dianmo)** | 点墨：Android 单机离线场景的内存扫描与修改工具。Kotlin 悬浮窗 + C++ native 扫描器。 |
 
 ---
 
@@ -63,26 +63,26 @@ VaKao 团队的开发者。做 Web 平台、桌面工具、移动应用与开源
 <table>
 <tr>
 <td width="50%">
-<a href="https://github.com/Rouarn/Vakao-Studio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/Vakao-Studio-dark.svg"><img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/Vakao-Studio.svg" alt="Vakao-Studio"></picture></a>
+<a href="https://github.com/Rouarn/vakao-studio"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/vakao-studio-dark.svg"><img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/vakao-studio.svg" alt="vakao-studio"></picture></a>
 </td>
 <td width="50%">
-<a href="https://github.com/Rouarn/WireDeck"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/WireDeck-dark.svg"><img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/WireDeck.svg" alt="WireDeck"></picture></a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/Rouarn/DianMo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/DianMo-dark.svg"><img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/DianMo.svg" alt="DianMo"></picture></a>
-</td>
-<td width="50%">
-<a href="https://github.com/Rouarn/OnmyojiTools"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/OnmyojiTools-dark.svg"><img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/OnmyojiTools.svg" alt="OnmyojiTools"></picture></a>
+<a href="https://github.com/Rouarn/wiredeck"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/wiredeck-dark.svg"><img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/wiredeck.svg" alt="wiredeck"></picture></a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<a href="https://github.com/Rouarn/VakaoUI"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/VakaoUI-dark.svg"><img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/VakaoUI.svg" alt="VakaoUI"></picture></a>
+<a href="https://github.com/Rouarn/dianmo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/dianmo-dark.svg"><img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/dianmo.svg" alt="dianmo"></picture></a>
 </td>
 <td width="50%">
-<a href="https://github.com/Rouarn/VakaoStaticHub"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/VakaoStaticHub-dark.svg"><img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/VakaoStaticHub.svg" alt="VakaoStaticHub"></picture></a>
+<a href="https://github.com/Rouarn/onmyoji-tools"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/onmyoji-tools-dark.svg"><img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/onmyoji-tools.svg" alt="onmyoji-tools"></picture></a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/Rouarn/vakao-ui"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/vakao-ui-dark.svg"><img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/vakao-ui.svg" alt="vakao-ui"></picture></a>
+</td>
+<td width="50%">
+<a href="https://github.com/Rouarn/vakao-static-hub"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/vakao-static-hub-dark.svg"><img src="https://raw.githubusercontent.com/Rouarn/Rouarn/main/assets/projects/vakao-static-hub.svg" alt="vakao-static-hub"></picture></a>
 </td>
 </tr>
 </table>

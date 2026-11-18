@@ -185,12 +185,12 @@ def main():
         save(f"streak{suffix}.svg", streak_card(current, longest, total, dark))
         save(f"activity{suffix}.svg", activity_card(days, dark))
     projects = [
-        ("Vakao-Studio", "VaKao 团队官网：Nuxt 4 + Tailwind CSS + Three.js，静态生成。"),
-        ("WireDeck", "在电脑上无线管理安卓手机：配对、应用、文件、日志与 Shell。"),
-        ("DianMo", "点墨：Android 内存扫描与修改工具，Kotlin + C++ native。"),
-        ("OnmyojiTools", "阴阳师 Windows 工具：多开、窗口排列、声音聚焦。"),
-        ("VakaoUI", "Vue 3 + TypeScript 的现代化组件库。"),
-        ("VakaoStaticHub", "静态资源管理：多根目录、分片上传、分享与更新中心。"),
+        ("vakao-studio", "VaKao 团队官网：Nuxt 4 + Tailwind CSS + Three.js，静态生成。"),
+        ("wiredeck", "在电脑上无线管理安卓手机：配对、应用、文件、日志与 Shell。"),
+        ("dianmo", "点墨：Android 内存扫描与修改工具，Kotlin + C++ native。"),
+        ("onmyoji-tools", "阴阳师 Windows 工具：多开、窗口排列、声音聚焦。"),
+        ("vakao-ui", "Vue 3 + TypeScript 的现代化组件库。"),
+        ("vakao-static-hub", "静态资源管理：多根目录、分片上传、分享与更新中心。"),
     ]
     by_name = {r["name"]: r for r in repos}
     for name, desc in projects:
